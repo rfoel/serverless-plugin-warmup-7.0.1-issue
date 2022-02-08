@@ -1,0 +1,7 @@
+{
+  "name": "aws-node-http-api-project",
+  "devDependencies": {
+    "serverless": "^3.1.1",
+    "serverless-plugin-warmup": "^7.0.1"
+  }
+}
